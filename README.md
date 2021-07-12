@@ -18,5 +18,5 @@ I am an eco-epidemiologist and data science/biostatistics enthusiast. I am curre
 
 ### About me:
 
-[<img align="left" width="22px" src="https://raw.githubusercontent.com/mmfava/www.mmfava.com/master/assets/images/icon.png"/>](www.mmfava.com)
+[<img align="left" width="22px" src="http://simpleicon.com/wp-content/uploads/world.png"/>](www.mmfava.com)
 [<img align="left" width="22px" <i class="ri-home-line"></i></i>/>](https://www.linkedin.com/in/mariliafavalesso/)
