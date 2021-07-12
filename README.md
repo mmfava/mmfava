@@ -1,6 +1,6 @@
 ### Hola!
 
-I am an spatial ecologist and [Doctoral Student at UNESP - Rio Claro, SP, Brazil](https://ib.rc.unesp.br/#!/pos-graduacao/secao-tecnica-de-pos/programas/ecologia-e-biodiversidade/apresentacao-novo/). 
+I am an eco-epidemiologist and data science/biostatistics enthusiast. I am currently pursuing a doctorate at the Universidad de Buenos Aires (Ecology, Genetics and Evolution program), with a job at the National Institute of Tropical Medicine in Argentina. I have experience in ecology, biological data analysis, spatial data analysis, epidemiology, entomology, and programming (R and Python). I am co-founder and co-organizer of the Data Science Study Group (GECD) in Foz do Iguaçu. I explain biostatistics in ‘Soma dos Quadrados’ and discuss species distribution modeling methods in the ‘Niche Models Group’.
 
 <div>
   <a href="https://github.com/mmfava">
