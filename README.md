@@ -18,6 +18,8 @@ I am currently pursuing a doctorate at the *Universidad de Buenos Aires* ([Ecolo
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
 </div>
+  
+<br>
 
 ### More about me:
 [https://www.mmfava.com/](https://www.mmfava.com/)  
