@@ -11,9 +11,10 @@ I am an eco-epidemiologist and data science/biostatistics enthusiast. I am curre
 <div style="display: inline_block"><br>
   <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="tidyverse" height="30" width="40" src="https://raw.githubusercontent.com/rstudio/hex-stickers/master/SVG/tidyverse.svg">
-  <img align="center" alt="Mau-Markdown" height="30" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
-  <img align="center" alt="Mau-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mau-QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
+  <img align="center" alt="Markdown" height="30" width="40" src="https://raw.githubusercontent.com/dcurtis/markdown-mark/master/svg/markdown-mark.svg">
+  <img align="center" alt="Inkscape" height="30" width="40" src="https://media.inkscape.org/static/images/inkscape-logo.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="QIG" height="30" width="40" src="https://qgis.org/en/_downloads/19636e41148dfd0157ff0db3f7297069/qgis-icon64.svg">
 </div>
 
 ### About me:
