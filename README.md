@@ -1,5 +1,4 @@
 <h1 align="center">Hi! - Hola! - Olá! 😄</h1>
-<h3 align="center">I am an eco-epidemiologist and machine learning engineer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mmfava" alt="mmfava" /> </p>
 
 I am an eco-epidemiologist (MSc/PhD) and applied data scientist with experience in machine learning, data engineering, and advanced statistical techniques.
